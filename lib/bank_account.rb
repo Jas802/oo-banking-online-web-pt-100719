@@ -13,7 +13,7 @@ def deposit(dep_amount)
 end
 
 def show_balance
-  "Your current balance is #{balance}."
+  "Your balance is #{balance}."
 end
 
 def close_account
